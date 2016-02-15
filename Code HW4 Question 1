@@ -4,5 +4,5 @@
 # Posterior distribution is beta(x+1/2,n-x+1/2) = beta(3/2,19/2)
 # (a) Report an exact 95% (symmetric) posterior credible interval for theta.
 
-
+cred95 <- c(qbeta(0.025,3/2,19/2),qbeta(0.975,3/2,19/2))
 
