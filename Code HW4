@@ -1,0 +1,6 @@
+# Question 1
+# Model of the form x|beta ~ Bin(n,theta), and theta~Be(1/2,1/2).
+# Assume that you observe n=10 and x=1.
+# (a) Report an exact 95% (symmetric) posterior credible interval for theta.
+
+#
